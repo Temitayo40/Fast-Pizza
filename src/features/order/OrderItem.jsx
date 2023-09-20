@@ -1,5 +1,7 @@
-import { formatCurrency } from '../../utils/helpers';
+/* eslint-disable react/prop-types */
+import { formatCurrency } from "../../utils/helpers";
 
+// eslint-disable-next-line no-unused-vars
 function OrderItem({ item, isLoadingIngredients, ingredients }) {
   const { quantity, name, totalPrice } = item;
 
