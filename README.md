@@ -7,7 +7,9 @@ The ordering process is flexible and allows users to add multiple pizzas to thei
 Users only need to provide their name, phone number, and address when making an order. We value our customers' time, so we've added a special 'priority' option that allows users to expedite their orders for an additional 20% fee.
 Payment is hassle-free and handled on delivery, ensuring a seamless experience from start to finish. We are committed to providing the best pizza and service possible, making every order a delightful experience for our valued customers.
 
-![alt text](https://github.com/Temitayo40/OminiFood-/blob/master/img/Ominifood_snap.png)
+![alt text](https://github.com/Temitayo40/Fast-Pizza/blob/main/public/img/fast-pizza-1.png)
+![alt text](https://github.com/Temitayo40/Fast-Pizza/blob/main/public/img/fast-pizza-2.png)
+
 
 
 ### Built With 
